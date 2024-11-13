@@ -1,4 +1,4 @@
-# Project of Klaim Ullah on Inventory Management System
+# Project of Kalim Ullah on Inventory Management System
 
 class User:
     def __init__(self, username, password, role):
